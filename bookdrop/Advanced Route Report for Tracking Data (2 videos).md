@@ -1,11 +1,11 @@
-
 # Questions
 ###### Tags: #questions 
-1. How would I know what to input in `Barcodes`, `FacRec`?
-2. Are there any other things I need to edit out?
+1. What is the difference between `Barcodes` and `FacRec`?
+2. How would I know what to input in `Barcodes`, `FacRec`?
+3. Are there any other things I need to edit out?
 # Pull Data from CashMonkey
 1. Open CashMonkey report page.
-2. Select Report Page Advanced
+2. Select `Report Page Advanced`.
 3. Set custom filter for dates.
 4. Download.
 

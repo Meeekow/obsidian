@@ -18,11 +18,12 @@
 	- Entry Description: `BookDrop`
 6. Click `Add Recipients`.
 7. Update the `Amount` accordingly.
-8. Click `Confirm`, select the option that would pop-out.
-9. Click `Confirm` again.
-10. It will send a verification code to Mark.
-11. Enter the verification code from Mark, hit `Verify`.
-12. Download the payment confirmation as a PDF file.
+8. Click `Review`. 
+9. Click `Confirm`, select the option that would pop-out.
+10. Click `Confirm` again.
+11. It will send a verification code to Mark.
+12. Enter the verification code from Mark, hit `Verify`.
+13. Download the payment confirmation as a PDF file.
 
 
 # Procedure
