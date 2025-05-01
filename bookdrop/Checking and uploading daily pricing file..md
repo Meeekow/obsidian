@@ -36,3 +36,8 @@
 	- File is usually named with `Price Upload ... date it is intended to be uploaded`.
 2. Check back after 30 minutes.
 3. Update sheet with the batch ID.
+
+
+# From WhatsApp
+1. Check 10 ASINs where we will set our Max Price for less than $15 and our Min Price less than $10. Look at the Amazon listing for each of these books. At least 1 of these 2 things should be true on all 10 of these listings: (a) The lowest New Price is less than $20, or (b) The lowest Used Price is less than $20. 
+2. ⁠Check 10 ASINs where we will set our Max Price for above $80 and our Min Price above $40. For all 10 of these ASINs, if there are Used offers available, the lowest used offer should exceed $25.

@@ -31,7 +31,7 @@ Usually there is no need to change anything aside from the above in excel.
 
 # Email Template
 ```
-Hi, I have sent the invoice for this load: WOB-`shipment number`
+Hi, I have sent the invoice for this load: WOB-xxxx
 
 Thank you!
 ```
