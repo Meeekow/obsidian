@@ -1,3 +1,5 @@
+# Overview
+We usually receive an email from [Amanda Nelson](anelson@osmworldwide.com).
 # Procedure
 1. Download the attached pdf file.
 2. Send the downloaded file to `MF Notifications` chat in WhatsApp

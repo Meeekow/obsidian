@@ -2,30 +2,37 @@
  ##### ACH
  - AUS Shop LLC
 ```
-Payment Name: `AUS SHOP LLC`
-Entry Description: `BookDrop`
+Payment Name: AUS SHOP LLC
+Entry Description: BookDrop
 Discretionary Data: invoice number from the email being addressed
 ```
  - Uber Freight LLC
 ```
-Payment Name: `Uber`
-Entry Description: `BookDrop`
-Discretionary Data: `BookDrop LLC`
+Payment Name: Uber
+Entry Description: BookDrop
+Discretionary Data: BookDrop LLC
 ```
  - Rod O
  ```
-Payment Name: `Rod O`
-Entry Description: `BookDrop`
+Payment Name: Rod O
+Entry Description: BookDrop
 ```
 
  ##### Wire
  - Goodwill Industries of New Mexico (Goodwill)
 ```
-Reference Beneficiary: `Subject of the email`
+Reference Beneficiary: Subject of the email
 ```
  - GW Wyoming (Goodwill)
  - Tiedemann Globe
  - Arc Thrift
+ - Northstar Recycling
+ ```
+ Beneficiary: Northstar Recycling
+ Purpose: Mixed Books
+ Additional Information: BookDrop LLC
+ Reference Beneficiary: check attached pdf in the email(format looks like this S.O.# 123456
+```
 
 # Procedure for ACH Payments
 1. Navigate to `Payments`, select `ACH RECIPIENTS`.
